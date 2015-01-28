@@ -1,4 +1,4 @@
-# Node.js Style Guide
+# V10Data Node.js Style Guide
 
 This is a guide for writing consistent and aesthetically pleasing node.js code.
 It is inspired by what is popular within the community, and flavored with some
@@ -10,8 +10,7 @@ either use that and adjust it, or use
 
 This guide was created by [Felix Geisendörfer](http://felixge.de/) and is
 licensed under the [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/)
-license. You are encouraged to fork this repository and make adjustments
-according to your preferences.
+license.
 
 ![Creative Commons License](http://i.creativecommons.org/l/by-sa/3.0/88x31.png)
 
@@ -70,7 +69,7 @@ your editor supports that, right?
 
 ## Use single quotes
 
-Use single quotes, unless you are writing JSON.
+Use single quotes, unless you are writing JSON, SQL or french text having lots of single quotes.
 
 *Right:*
 
